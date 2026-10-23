@@ -9,7 +9,7 @@ Irvine, CA · student at Saddleback College · open to AI implementation, AI ope
 **Featured**
 
 - **[Argus](https://github.com/calebschalesky-ops/argus):** a read-only engine that tests prediction-market strategies on Kalshi and Polymarket. ~20k lines of Python, 462 tests, 15+ studies, and one pass/fail gate (better odds than the market *and* profit after fees). Built in 2 days by running parallel Claude Code sessions against one spec.
-- **Agent guardrails** *(coming next)*: Claude Code hooks that confine each agent to its own files and block spending, posting and account actions at the tool boundary, backed by a test suite.
+- **[claude-agent-guardrails](https://github.com/calebschalesky-ops/claude-agent-guardrails):** Claude Code hooks that keep each subagent inside its own files and make outward actions (messages, calendar, sharing) ask a human, even in bypass mode. Extracted from my own multi-agent setup, where the originals have logged 765 decisions and 181 denials. 65 tests, no dependencies.
 - **[Ascent Flight](https://github.com/calebschalesky-ops/ascent)** · [play it](https://calebschalesky-ops.github.io/ascent/): a 3D space game in React, TypeScript and three.js. ~51k lines, 947 tests, 435 commits in 5 days, built by a studio of Claude Code agents working from scoped work packages, with cold-play QA and simulation-tested balance.
 
 **How I work**
