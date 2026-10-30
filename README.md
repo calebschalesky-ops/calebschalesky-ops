@@ -14,8 +14,8 @@ Irvine, CA · business student at Saddleback College · taking on AI consulting 
 
 **Featured work**
 
-- **[Front Desk](https://github.com/calebschalesky-ops/front-desk):** an inquiry and booking agent for gyms, studios and coaches. It drafts replies with the right class, time and price, and plain code checks every price, time and link in a draft against the owner's info page before it is saved. A made-up price becomes a flag, not a draft. 46 tests.
-- **[Hermes](https://github.com/calebschalesky-ops/hermes-editor):** an AI video editor. You give it raw clips and a brief like "under 40 seconds, open on the intro", and it writes an edit decision list, cuts the takes, levels the audio to -14 LUFS, adds captions and cuts vertical shorts. Ask for a change in plain words and it re-cuts. 41 tests.
+- **[Front Desk](https://github.com/calebschalesky-ops/front-desk):** an inquiry and booking agent for gyms, studios and coaches. It drafts replies with the right class, time and price, and plain code checks every price, time and link in a draft against the owner's info page before it is saved. A made-up price becomes a flag, not a draft. 95 tests, 100% coverage.
+- **[Hermes](https://github.com/calebschalesky-ops/hermes-editor):** an AI video editor. You give it raw clips and a brief like "under 40 seconds, open on the intro", and it writes an edit decision list, cuts the takes, levels the audio to -14 LUFS, adds captions and cuts vertical shorts. Ask for a change in plain words and it re-cuts. 83 tests.
 - **[claude-agent-guardrails](https://github.com/calebschalesky-ops/claude-agent-guardrails):** the safety layer from my own multi-agent setup. Each agent can only write its own files, and outward actions (messages, calendar, sharing) stop and ask a human. The originals have logged 765 decisions and 181 denials. 65 tests, no dependencies.
 
 **Just for fun**
