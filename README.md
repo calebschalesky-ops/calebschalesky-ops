@@ -17,7 +17,29 @@ Irvine, CA · business student at Saddleback College · taking on AI consulting 
 - **[Front Desk](https://github.com/calebschalesky-ops/front-desk):** an inquiry and booking agent for gyms, studios and coaches. It drafts replies with the right class, time and price, and plain code checks every price, time and link in a draft against the owner's info page before it is saved. A made-up price becomes a flag, not a draft. 46 tests.
 - **[Hermes](https://github.com/calebschalesky-ops/hermes-editor):** an AI video editor. You give it raw clips and a brief like "under 40 seconds, open on the intro", and it writes an edit decision list, cuts the takes, levels the audio to -14 LUFS, adds captions and cuts vertical shorts. Ask for a change in plain words and it re-cuts. 41 tests.
 - **[claude-agent-guardrails](https://github.com/calebschalesky-ops/claude-agent-guardrails):** the safety layer from my own multi-agent setup. Each agent can only write its own files, and outward actions (messages, calendar, sharing) stop and ask a human. The originals have logged 765 decisions and 181 denials. 65 tests, no dependencies.
-- **[Ascent Flight](https://github.com/calebschalesky-ops/ascent)** · [play it](https://calebschalesky-ops.github.io/ascent/): a 3D space game in React, TypeScript and three.js, ~51k lines and 947 tests, built in 5 days by a team of Claude Code agents. It shows how I split a large build into scoped pieces and check every one.
+
+**Just for fun**
+
+<table>
+<tr>
+<td width="46%">
+<a href="https://calebschalesky-ops.github.io/ascent/"><img src="https://github.com/calebschalesky-ops/ascent/raw/main/docs/flight.jpg" alt="Ascent Flight, in flight near Earth" width="100%"></a>
+</td>
+<td>
+
+### [Ascent Flight](https://github.com/calebschalesky-ops/ascent)
+
+A 3D space game set across the Solar System. Build a pilot, pick one of seven peoples, fit a ship and fly from a training flight up to fleet battles.
+
+Built in 5 days by a team of AI coding agents, each with its own job: engine, balance, content, art and QA. I set the vision and the bar for done.
+
+`React` `TypeScript` `three.js` · ~51k lines · 947 tests
+
+[![Play it in your browser](https://img.shields.io/badge/%E2%96%B6%20Play%20it-in%20your%20browser-0b1d3a?style=for-the-badge)](https://calebschalesky-ops.github.io/ascent/)
+
+</td>
+</tr>
+</table>
 
 **How I work**
 
