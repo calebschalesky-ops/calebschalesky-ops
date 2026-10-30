@@ -2,7 +2,7 @@
 
 I build AI tools and automations that take repetitive work off a person's plate: agents that watch an inbox and draft replies, pipelines that pull data and test an idea before money goes in, and guardrails so an AI can only touch what it is supposed to.
 
-Irvine, CA · business student at Saddleback College · taking on AI consulting and automation projects for small businesses · contact: [LinkedIn](https://www.linkedin.com/in/caleb-schalesky-0a2a31433/)
+Irvine, CA · business student at Saddleback College · taking on AI consulting and automation projects for small businesses · contact: [LinkedIn](https://www.linkedin.com/in/calebschalesky/)
 
 ---
 
