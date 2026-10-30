@@ -35,7 +35,7 @@ Built in 5 days by a team of AI coding agents, each with its own job: engine, ba
 
 `React` `TypeScript` `three.js` · ~51k lines · 947 tests
 
-[![Play it in your browser](https://img.shields.io/badge/%E2%96%B6%20Play%20it-in%20your%20browser-0b1d3a?style=for-the-badge)](https://calebschalesky-ops.github.io/ascent/)
+[![Play it in your browser](https://img.shields.io/badge/%E2%96%B6%20Play%20it%20in%20your%20browser-1f6feb?style=for-the-badge)](https://calebschalesky-ops.github.io/ascent/)
 
 </td>
 </tr>
